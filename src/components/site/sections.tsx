@@ -100,7 +100,7 @@ export function Hero() {
               </a>
             </Button>
             <Button asChild variant="ghost" size="xl">
-              <a href={`mailto:${profile?.email ?? ""}`}><Mail /> Contact Me</a>
+              <Link to="/contact"><Mail /> Contact Me</Link>
             </Button>
           </motion.div>
           <div className="mt-10 grid max-w-lg grid-cols-3 gap-4">
