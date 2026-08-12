@@ -1,0 +1,1 @@
+import{i as e}from"./createLucideIcon-B4WJSJQb.js";import{d as t,f as n,r,s as i,t as a}from"./sections-BQdYQAra.js";var o=e();function s(){return(0,o.jsxs)(`div`,{className:`pt-16`,children:[(0,o.jsx)(a,{full:!0}),(0,o.jsx)(t,{}),(0,o.jsx)(i,{}),(0,o.jsx)(n,{}),(0,o.jsx)(r,{})]})}export{s as component};

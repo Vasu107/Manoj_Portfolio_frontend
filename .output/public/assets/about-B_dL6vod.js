@@ -1,1 +1,0 @@
-import{d as e,f as t,r as n,s as r,t as i}from"./sections-BPDsllmO.js";import{z as a}from"./index-CV4V-PyA.js";var o=a();function s(){return(0,o.jsxs)(`div`,{className:`pt-16`,children:[(0,o.jsx)(i,{full:!0}),(0,o.jsx)(e,{}),(0,o.jsx)(r,{}),(0,o.jsx)(t,{}),(0,o.jsx)(n,{})]})}export{s as component};
